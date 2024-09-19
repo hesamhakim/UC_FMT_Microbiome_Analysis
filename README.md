@@ -78,4 +78,4 @@ The output will include:
 
 If you use this repository, please cite the following publication:
 
-**[Your Journal Publication]**
+TBD
